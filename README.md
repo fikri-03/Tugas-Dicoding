@@ -4,6 +4,6 @@ conda create --Growia_name-ds python=3.11.5
 
 conda activate main-ds
 
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
+pip install numpy pandas matplotlib seaborn jupyter streamlit
 # Run steamlit app
-streamlit run dashboard.py
+streamlit run 1. Latihan Dicoding -Muhamad Fikri-.py
