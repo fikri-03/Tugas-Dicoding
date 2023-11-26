@@ -1,6 +1,6 @@
 # Tugas-Dicoding
 # Setup environment
-conda create --Growia_name-ds python=3.11.5
+conda create --Growia_name-ds python=3.11
 
 conda activate main-ds
 
